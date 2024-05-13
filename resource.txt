@@ -1,0 +1,2 @@
+https://github.com/jason-chao/wordle-solver
+https://www.mattefay.com/wordle

@@ -1,0 +1,6 @@
+,Algo Name,Average Win Rate,Letter Accuracy,Perfect Letter Accuracy,Average Number of Guesses,Average Number of Guesses to Win,Average Run Time
+0,Human Algorithm,0.69,0.894,0.842,5.22,4.869565217391305,0.05864118399999915
+1,Naive Frequency Algorithm,0.75,0.924,0.884,5.06,4.746666666666667,0.06344621500000144
+2,Max Entropy Algorithm,0.77,0.934,0.892,5.28,5.064935064935065,7.484065379
+3,Genetic Algorithm,0.65,0.87,0.85,5.32,4.953846153846154,0.06509068699999598
+4,Q Learning,0.49,0.838,0.764,3.55,1.0,0.11340359900000269
